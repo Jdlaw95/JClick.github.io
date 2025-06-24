@@ -1,0 +1,19 @@
+.click-button {
+    padding: 20px 40px;
+    font-size: 24px;
+    background: linear-gradient(135deg, #ff0000, #990000);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.click-button:hover {
+    background: linear-gradient(135deg, #990000, #ff0000);
+    box-shadow: 0 0 20px red;
+}
