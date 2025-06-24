@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "> $ rm -rf / --no-preserve-root",
         "Gallery forwarded successfully!",
         "Contact list downloaded",
-        "Hidden folder copied"
-        "Mobile Banking software compromised"
+        "Hidden folder copied",
+        "Mobile Banking software compromised",
         "Tranfer from SAVINGS/TRANSACTIONAL Account pending"
     ];
 
