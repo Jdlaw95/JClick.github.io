@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "Gallery forwarded successfully!",
         "Contact list downloaded",
         "Hidden folder copied"
+        "Mobile Banking software compromised"
+        "Tranfer from SAVINGS/TRANSACTIONAL Account pending"
     ];
 
     let i = 0;
